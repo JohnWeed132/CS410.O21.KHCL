@@ -1,3 +1,5 @@
-# Summary: ứng dụng giải thuật di truyền để tìm kiếm kiến trúc tối ưu 
-# Demo: Chạy thực nghiệm trên tập dataset fashion mnist, khởi chạy file cs410-final.ipynb
-# Reference: [Xie_Genetic_CNN_ICCV_2017_paper](https://arxiv.org/pdf/1703.01513)
+📌 Overview
+This project applies a Genetic Algorithm (GA) to search for the optimal CNN architecture on the Fashion-MNIST dataset. The approach automates model selection, reducing the need for manual experimentation.
+
+Based on:
+📄 [Xie et al., Genetic CNN, ICCV 2017](https://arxiv.org/pdf/1703.01513)
